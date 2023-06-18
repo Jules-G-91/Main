@@ -137,7 +137,7 @@ select {
 }
 
 .nav-menu li a:hover {
-  color: var(--green);
+  color: #fff;
 }
 
 .nav-menu li a::before {
